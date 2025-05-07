@@ -1,7 +1,5 @@
 Kod w Pythonie stanowi **kompleksowy pipeline analizy danych HR dotyczących rotacji pracowników (ang. *attrition*)**, który obejmuje **załadowanie danych, czyszczenie, eksplorację, inżynierię cech, modelowanie oraz ocenę modeli predykcyjnych**.
 
----
-
 ## 🧩 **Cel analizy**
 
 Celem jest **predykcja odejścia pracownika z firmy (zmienna `Attrition`)**. Problem ten jest klasyfikacją binarną:
