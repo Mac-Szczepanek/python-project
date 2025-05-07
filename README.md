@@ -59,7 +59,7 @@ StandardScaler()
 
 ### 8. **Modelowanie i ocena modeli**
 
-#### 📌 Modele zastosowane:
+#### 📌 Zastosowane modele:
 
 * **Regresja logistyczna (L1, z i bez SMOTE)**
 * **Random Forest (z tunowaniem hiperparametrów via `GridSearchCV`)**
